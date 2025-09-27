@@ -1,0 +1,53 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem 2.5rem;
+    background: #1a73e8;
+    color: white;
+
+    .logo {
+        a {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: white;
+            text-decoration: none;
+
+            &:hover,
+            &:focus,
+            &:visited,
+            &:active {
+                color: white;
+                text-decoration: none;
+            }
+        }
+    }
+
+    .links {
+        display: flex;
+        gap: 2rem;
+
+        a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.2rem;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .badge {
+        background: red;
+        color: white;
+        font-size: 0.9rem;
+        padding: 4px 8px;
+        border-radius: 50%;
+        margin-left: 5px;
+    }
+}

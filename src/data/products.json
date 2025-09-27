@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones #1",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch #2",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 159.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Laptop Pro #3",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1214.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Smartphone X #4",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 919.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Sneakers #5",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Backpack #6",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 89.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 7,
+    "name": "Wireless Headphones #7",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 134.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Smart Watch #8",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 189.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Laptop Pro #9",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1244.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 10,
+    "name": "Smartphone X #10",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 899.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Sneakers #11",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 84.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Backpack #12",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 69.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 13,
+    "name": "Wireless Headphones #13",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 114.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Smart Watch #14",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 169.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Laptop Pro #15",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1224.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 16,
+    "name": "Smartphone X #16",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 929.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Sneakers #17",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 114.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Backpack #18",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 99.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 19,
+    "name": "Wireless Headphones #19",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 144.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Smart Watch #20",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 149.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "name": "Laptop Pro #21",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1204.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 22,
+    "name": "Smartphone X #22",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 909.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "name": "Sneakers #23",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 94.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "name": "Backpack #24",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 79.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 25,
+    "name": "Wireless Headphones #25",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 124.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Smart Watch #26",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 179.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "name": "Laptop Pro #27",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1234.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 28,
+    "name": "Smartphone X #28",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 939.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Sneakers #29",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 124.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Backpack #30",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 59.99,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 31,
+    "name": "Wireless Headphones #31",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "name": "Smart Watch #32",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 159.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Laptop Pro #33",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1214.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 34,
+    "name": "Smartphone X #34",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 919.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Sneakers #35",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "name": "Backpack #36",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 89.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 37,
+    "name": "Wireless Headphones #37",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 134.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "name": "Smart Watch #38",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 189.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "name": "Laptop Pro #39",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1244.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 40,
+    "name": "Smartphone X #40",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 899.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 41,
+    "name": "Sneakers #41",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 84.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "name": "Backpack #42",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 69.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 43,
+    "name": "Wireless Headphones #43",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 114.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "name": "Smart Watch #44",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 169.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 45,
+    "name": "Laptop Pro #45",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1224.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 46,
+    "name": "Smartphone X #46",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 929.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "name": "Sneakers #47",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 114.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "name": "Backpack #48",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 99.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 49,
+    "name": "Wireless Headphones #49",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 144.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "name": "Smart Watch #50",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 149.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 51,
+    "name": "Laptop Pro #51",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1204.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 52,
+    "name": "Smartphone X #52",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 909.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "name": "Sneakers #53",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 94.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "name": "Backpack #54",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 79.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 55,
+    "name": "Wireless Headphones #55",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 124.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 56,
+    "name": "Smart Watch #56",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 179.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 57,
+    "name": "Laptop Pro #57",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1234.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 58,
+    "name": "Smartphone X #58",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 939.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "name": "Sneakers #59",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 124.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "name": "Backpack #60",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 59.99,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 61,
+    "name": "Wireless Headphones #61",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 62,
+    "name": "Smart Watch #62",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 159.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 63,
+    "name": "Laptop Pro #63",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1214.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 64,
+    "name": "Smartphone X #64",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 919.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 65,
+    "name": "Sneakers #65",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 66,
+    "name": "Backpack #66",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 89.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 67,
+    "name": "Wireless Headphones #67",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 134.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 68,
+    "name": "Smart Watch #68",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 189.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 69,
+    "name": "Laptop Pro #69",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1244.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 70,
+    "name": "Smartphone X #70",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 899.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 71,
+    "name": "Sneakers #71",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 84.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 72,
+    "name": "Backpack #72",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 69.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 73,
+    "name": "Wireless Headphones #73",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 114.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 74,
+    "name": "Smart Watch #74",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 169.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 75,
+    "name": "Laptop Pro #75",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1224.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 76,
+    "name": "Smartphone X #76",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 929.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 77,
+    "name": "Sneakers #77",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 114.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 78,
+    "name": "Backpack #78",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 99.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 79,
+    "name": "Wireless Headphones #79",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 144.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 80,
+    "name": "Smart Watch #80",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 149.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 81,
+    "name": "Laptop Pro #81",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1204.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 82,
+    "name": "Smartphone X #82",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 909.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 83,
+    "name": "Sneakers #83",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 94.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 84,
+    "name": "Backpack #84",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 79.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 85,
+    "name": "Wireless Headphones #85",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 124.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 86,
+    "name": "Smart Watch #86",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 179.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 87,
+    "name": "Laptop Pro #87",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1234.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 88,
+    "name": "Smartphone X #88",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 939.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 89,
+    "name": "Sneakers #89",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 124.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 90,
+    "name": "Backpack #90",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 59.99,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 91,
+    "name": "Wireless Headphones #91",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 92,
+    "name": "Smart Watch #92",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 159.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 93,
+    "name": "Laptop Pro #93",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1214.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 94,
+    "name": "Smartphone X #94",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 919.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  },
+  {
+    "id": 95,
+    "name": "Sneakers #95",
+    "shortDescription": "Stylish and comfortable",
+    "fullDescription": "Trendy sneakers combining design with lasting comfort.",
+    "price": 104.99,
+    "currency": "$",
+    "image": "/images/products/1.jpg",
+    "inStock": true
+  },
+  {
+    "id": 96,
+    "name": "Backpack #96",
+    "shortDescription": "Durable and spacious",
+    "fullDescription": "Versatile backpack for school, work, or travel.",
+    "price": 89.99000000000001,
+    "currency": "$",
+    "image": "/images/products/3.jpg",
+    "inStock": false
+  },
+  {
+    "id": 97,
+    "name": "Wireless Headphones #97",
+    "shortDescription": "Noise-cancelling headphones",
+    "fullDescription": "High quality wireless headphones with long battery life.",
+    "price": 134.99,
+    "currency": "$",
+    "image": "/images/products/2.jpg",
+    "inStock": true
+  },
+  {
+    "id": 98,
+    "name": "Smart Watch #98",
+    "shortDescription": "Fitness and notifications",
+    "fullDescription": "Track your steps, monitor your heart rate, and stay connected.",
+    "price": 189.99,
+    "currency": "$",
+    "image": "/images/products/5.jpg",
+    "inStock": true
+  },
+  {
+    "id": 99,
+    "name": "Laptop Pro #99",
+    "shortDescription": "Powerful performance",
+    "fullDescription": "High-end laptop suitable for work, gaming, and creative tasks.",
+    "price": 1244.99,
+    "currency": "$",
+    "image": "/images/products/4.jpg",
+    "inStock": false
+  },
+  {
+    "id": 100,
+    "name": "Smartphone X #100",
+    "shortDescription": "Latest smartphone model",
+    "fullDescription": "Experience cutting-edge technology with a brilliant camera.",
+    "price": 899.99,
+    "currency": "$",
+    "image": "/images/products/7.jpg",
+    "inStock": true
+  }
+]
