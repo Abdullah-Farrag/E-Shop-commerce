@@ -25,13 +25,25 @@
     @media (max-width: 600px) {
         flex-direction: column;
         align-items: stretch;
+        padding: 0 1rem; // ✅ إضافة padding يمين وشمال
 
         input,
         select {
             width: 100%;
         }
+
+        .priceRange {
+            flex-direction: row; // يخليهم جنب بعض
+            gap: 0.5rem;
+            width: 100%;
+
+            input {
+                flex: 1;
+            }
+        }
     }
 }
+
 
 .empty {
     text-align: center;

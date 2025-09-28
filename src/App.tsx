@@ -1,11 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import ProductList from "./components/ProductList";
 import CartPage from "./pages/CartPage";
 import { CartProvider } from "./context/CartContext";
 import "./index.scss";
 import Navbar from "./components/Navbar";
-
 
 const App: React.FC = () => {
   return (
@@ -13,7 +12,8 @@ const App: React.FC = () => {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<ProductList />} />
+          <Route path="/" element={<Navigate to="/home" replace />} />
+          <Route path="/home" element={<ProductList />} />
           <Route path="/cart" element={<CartPage />} />
         </Routes>
       </Router>
