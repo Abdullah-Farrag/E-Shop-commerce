@@ -8,7 +8,6 @@
     display: flex;
     flex-direction: column;
     height: 100%;
-    /* الكارد يملأ العمود */
     box-sizing: border-box;
 
     &:hover {
@@ -20,7 +19,6 @@
 .imageWrapper {
     width: 100%;
     height: 200px;
-    /* أصغر شوية */
     overflow: hidden;
     position: relative;
 }

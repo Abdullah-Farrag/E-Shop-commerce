@@ -300,7 +300,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 0.3rem; // رفع الصف شوية
+    margin-top: 0.3rem; 
 
     .subtotal {
         font-weight: bold;
@@ -312,7 +312,7 @@
     .mobileOnlyRemove {
         background: transparent;
         border: none;
-        font-size: 1.4rem; // حجم الأيقونة
+        font-size: 1.4rem;
         color: #e63946;
         cursor: pointer;
 

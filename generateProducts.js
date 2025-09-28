@@ -67,4 +67,4 @@ for (let i = 1; i <= 100; i++) {
 }
 
 fs.writeFileSync("./src/data/products.json", JSON.stringify(products, null, 2));
-console.log("✅ products.json with 100 products generated!");
+console.log("products.json with 100 products generated!");
