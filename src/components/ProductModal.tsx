@@ -22,7 +22,7 @@ const ProductModal: React.FC<Props> = ({ product, onClose, onAddToCart }) => {
                 exit={{ opacity: 0, scale: 0.8 }}
             >
                 <button className={styles.close} onClick={onClose}>✕</button>
-                <img src={product.image} alt={product.name} className={styles.image} />
+                <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className={styles.image} />
                 <h2>{product.name}</h2>
                 <p className={styles.fullDescription}>{product.fullDescription}</p>
                 <p className={styles.price}>

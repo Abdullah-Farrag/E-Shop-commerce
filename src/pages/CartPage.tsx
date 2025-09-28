@@ -28,7 +28,7 @@ const CartPage: React.FC = () => {
                     {cartItems.map(({ product, quantity }) => (
                         <tr key={product.id}>
                             <td className={styles.productCell}>
-                                <img src={product.image} alt={product.name} />
+                                <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className={styles.image} />
                                 <span>{product.name}</span>
                             </td>
                             <td>{product.price.toFixed(2)} {product.currency}</td>
@@ -59,7 +59,7 @@ const CartPage: React.FC = () => {
             <div className={`${styles.cardList} ${styles.mobileOnly}`}>
                 {cartItems.map(({ product, quantity }) => (
                     <div className={styles.card} key={product.id}>
-                        <img src={product.image} alt={product.name} className={styles.image} />
+                        <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className={styles.image} />
                         <div className={styles.details}>
                             <h3>{product.name}</h3>
                             <p>{product.price.toFixed(2)} {product.currency}</p>

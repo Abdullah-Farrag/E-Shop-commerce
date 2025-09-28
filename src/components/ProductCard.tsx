@@ -17,7 +17,7 @@ const ProductCard: React.FC<Props> = ({ product, onClick }) => {
             whileTap={{ scale: 0.98 }}
         >
             <div className={styles.imageWrapper}>
-                <img src={product.image} alt={product.name} className={styles.image} />
+                <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className={styles.image} />
                 {!product.inStock && <span className={styles.overlay}>Out of Stock</span>}
             </div>
 
