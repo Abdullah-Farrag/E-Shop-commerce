@@ -295,3 +295,30 @@
         gap: 1rem;
     }
 }
+
+.subtotalRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.3rem; // رفع الصف شوية
+
+    .subtotal {
+        font-weight: bold;
+        color: #333;
+        margin: 0;
+        font-size: 1rem;
+    }
+
+    .mobileOnlyRemove {
+        background: transparent;
+        border: none;
+        font-size: 1.4rem; // حجم الأيقونة
+        color: #e63946;
+        cursor: pointer;
+
+        &:hover {
+            color: #c1121f;
+        }
+    }
+
+}

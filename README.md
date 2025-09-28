@@ -26,11 +26,11 @@ It was built as part of a **technical interview task** to demonstrate frontend d
 
 ## Screenshots
 
-### web
-![web](screenshots/web/ScreenShot_20250928021406.PNG)
+### Web
+![Web](screenshots/web/ScreenShot_20250928021406.PNG)
 
 ### Mobile
-![mobile](screenshots/phone/1F1BAF17-047F-48CC-A597-BAF8A1EA37EC.JPG)
+![Mobile](screenshots/phone/1F1BAF17-047F-48CC-A597-BAF8A1EA37EC.JPG)
 
 ---
 

@@ -1,6 +1,8 @@
 import React from "react";
 import { useCart } from "../context/CartContext";
 import styles from "../styles/CartPage.module.scss";
+import { FaTrashAlt } from "react-icons/fa";
+const TrashIcon: any = FaTrashAlt;
 
 const CartPage: React.FC = () => {
     const { cartItems, increaseQty, decreaseQty, removeFromCart, clearCart, total } = useCart();
@@ -44,10 +46,10 @@ const CartPage: React.FC = () => {
                             </td>
                             <td>
                                 <button
-                                    className={styles.removeBtn}
+                                    className={`${styles.removeBtn} ${styles.desktopOnlyRemove}`}
                                     onClick={() => removeFromCart(product.id)}
                                 >
-                                    ✕
+                                    <TrashIcon />
                                 </button>
                             </td>
                         </tr>
@@ -62,17 +64,26 @@ const CartPage: React.FC = () => {
                         <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} className={styles.image} />
                         <div className={styles.details}>
                             <h3>{product.name}</h3>
-                            <p>{product.price.toFixed(2)} {product.currency}</p>
+                            <div className={styles.priceRow}>
+                                <p>{product.price.toFixed(2)} {product.currency}</p>
+                            </div>
                             <div className={styles.qty}>
                                 <button onClick={() => decreaseQty(product.id)}>-</button>
                                 <span>{quantity}</span>
                                 <button onClick={() => increaseQty(product.id)}>+</button>
                             </div>
-                            <p className={styles.subtotal}>
-                                Subtotal: {(product.price * quantity).toFixed(2)} {product.currency}
-                            </p>
+                            <div className={styles.subtotalRow}>
+                                <p className={styles.subtotal}>
+                                    Subtotal: {(product.price * quantity).toFixed(2)} {product.currency}
+                                </p>
+                                <button
+                                    className={styles.mobileOnlyRemove}
+                                    onClick={() => removeFromCart(product.id)}
+                                >
+                                    <TrashIcon />
+                                </button>
+                            </div>
                         </div>
-                        <button className={styles.removeBtn} onClick={() => removeFromCart(product.id)}>✕</button>
                     </div>
                 ))}
             </div>
